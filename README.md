@@ -3,7 +3,7 @@
 
 ## SUJET DE VOTE
 
-Le Dispositif d’Urgence Démocratique (ou DUD), vise à instrumenter le Referendum d’Initiative Partagée (RIP) existant afin de systématiser son recours à des fins de contre parlementaire.
+Le Dispositif d’Urgence Démocratique (ou DUD), vise à instrumenter le Referendum d’Initiative Partagée (RIP) existant afin de systématiser son recours à des fins contre parlementaire.
 
 Plus exactement,
 
